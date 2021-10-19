@@ -1,4 +1,6 @@
 namespace: postgres-operator
 
 resources:
+- cert.yaml
+- cert-repl.yaml
 - postgres.yaml
